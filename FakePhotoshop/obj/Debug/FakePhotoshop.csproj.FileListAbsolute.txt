@@ -1,0 +1,30 @@
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\bin\Debug\FakePhotoshop.exe.config
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\bin\Debug\FakePhotoshop.exe
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\bin\Debug\FakePhotoshop.pdb
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.csprojAssemblyReference.cache
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\MainWindow.g.cs
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\App.g.cs
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop_MarkupCompile.cache
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop_MarkupCompile.lref
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\MainWindow.baml
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.g.resources
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.Properties.Resources.resources
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.csproj.GenerateResource.cache
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.csproj.CoreCompileInputs.cache
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.exe
+D:\Alles op D\School programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.pdb
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\bin\Debug\FakePhotoshop.exe.config
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\bin\Debug\FakePhotoshop.exe
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\bin\Debug\FakePhotoshop.pdb
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.csprojAssemblyReference.cache
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\MainWindow.g.cs
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\App.g.cs
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop_MarkupCompile.cache
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop_MarkupCompile.lref
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\MainWindow.baml
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.g.resources
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.Properties.Resources.resources
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.csproj.GenerateResource.cache
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.csproj.CoreCompileInputs.cache
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.exe
+D:\Code\Radius programeer dingen\VisualStudioProjects\FakePhotoshop\FakePhotoshop\FakePhotoshop\obj\Debug\FakePhotoshop.pdb

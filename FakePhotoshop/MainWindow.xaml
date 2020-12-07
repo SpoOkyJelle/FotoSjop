@@ -1,0 +1,30 @@
+﻿<Window x:Class="FakePhotoshop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FakePhotoshop"
+        mc:Ignorable="d"
+        Title="Photosjop" Height="450" Width="800"
+        WindowState="Maximized">
+    <Grid>
+        <StackPanel>
+            <DockPanel>
+                <Menu DockPanel.Dock="Top">
+                    <MenuItem Header="_File">
+                        <MenuItem Click="OpenFileBtn_Click" x:Name="openFileBtn" Header="Open File"/>
+                        <MenuItem Click="SaveBtn_Click" x:Name="saveBtn" Header="Save"/>
+                    </MenuItem>
+                    <MenuItem Header="Edit">
+                        <MenuItem Click="greyScaleBtn_Click" x:Name="greyScaleBtn" Header="Grey Scale"/>
+                        <MenuItem Click="WatermarkBtn_Click" x:Name="rotateBtn" Header="Watermark"/>
+                        <MenuItem Click="FlashbackeBtn_Click" x:Name="flashbackeBtn" Header="Flashback"/>
+                    </MenuItem>
+                </Menu>
+            </DockPanel>
+            <Canvas x:Name="DesigningCanvas">
+                <Image x:Name="mainImage"/>
+            </Canvas>
+        </StackPanel>
+    </Grid>
+</Window>
